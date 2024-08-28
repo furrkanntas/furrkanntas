@@ -21,7 +21,7 @@
 <img src="https://static.thenounproject.com/png/223494-200.png" alt="E-Mail" width="50" />
     </a>
 
-<a href="https://www.linkedin.com/in/furkan-taş/" target="_blank">
+<a href="https://www.linkedin.com/in/furrkanntas/" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" />
   </a>
 
